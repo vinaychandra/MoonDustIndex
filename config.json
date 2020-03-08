@@ -1,5 +1,5 @@
 {
-    "dl": "https://crates.vinay.vc/api/v1/crates/{crate}/{version}/download",
-    "api": "https://crates.vinay.vc",
+    "dl": "http://crates.vinay.vc/api/v1/crates/{crate}/{version}/download",
+    "api": "http://crates.vinay.vc",
     "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/vinaychandra/MoonDustIndex"]
 }
