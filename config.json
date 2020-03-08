@@ -1,5 +1,5 @@
 {
-    "dl": "https://crates.polomack.eu/api/v1/crates/{crate}/{version}/download",
-    "api": "https://crates.polomack.eu",
-    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/Hirevo/alexandrie-index"]
+    "dl": "https://crates.vinay.vc/api/v1/crates/{crate}/{version}/download",
+    "api": "https://crates.vinay.vc",
+    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://github.com/vinaychandra/MoonDustIndex"]
 }
